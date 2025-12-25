@@ -1,0 +1,7 @@
+{
+  "name": "FaceRate & Style",
+  "description": "AI-powered facial analysis and haircut recommendation tool.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
